@@ -28,3 +28,11 @@
 | [nand2tatris_part_ii](https://www.nand2tetris.org/) | This site supports a course and a textbook that guide students and self-learners through the construction of a modern, full-scale computer system - hardware and software - from the ground up. In the process, the students practice many major computer science (CS) abstractions studied in typical CS courses and make them concrete through 12 guided implementation projects. The lectures, book chapters and projects are highly modular and one can pursue subsets of them in any desired order and scope. All the software tools and course materials can be downloaded freely and in open source from this site.|
 
 ![nandTwo](https://i.ibb.co/r0R3skF/ceritfcateii.png)
+
+# OneMillionArabCoders: first step
+| Link | Description |
+| ----------- | ----------- |
+| [one-million-arab-coders](https://www.udacity.com/mena/one-million-arab-coders/) | The 'One Million Arab Coders' initiative is one of Mohammed bin Rashid Al Maktoum's global initiatives, and it is the charitable foundation that aims to spread education and knowledge to promote the renaissance of the Arab world. The 'One Million Arab Coders' initiative aims to provide Arab youth with the basic capabilities and skills they will need in order to obtain future job opportunities, providing them with the language of the age - the programming language - through online training courses, and the training program consists of four tracks that are most in demand in the field of development Websites, namely: developing complete websites, developing website pages, analyzing data, and developing Android applications.|
+
+![OneMillionArabCoders](https://i.ibb.co/s3YXVQc/014c33cb-b32b-4d24-880a-920a3e4317a0.png)
+
