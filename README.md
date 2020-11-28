@@ -1,5 +1,7 @@
 # Table of Contents
 * introduction
-  Here's a sentence with a footnote. [^1]
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-[^1]: This is the footnote.
