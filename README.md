@@ -1,9 +1,2 @@
 # Table of Contents
-
-
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-
+[^1]: This is the footnote.
