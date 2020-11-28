@@ -36,3 +36,10 @@
 
 ![OneMillionArabCoders](https://i.ibb.co/s3YXVQc/014c33cb-b32b-4d24-880a-920a3e4317a0.png)
 
+# OneMillionArabCoders: Graduation step
+| Link | Description |
+| ----------- | ----------- |
+| [one-million-arab-coders](https://www.udacity.com/mena/one-million-arab-coders/) | The 'One Million Arab Coders' initiative is one of Mohammed bin Rashid Al Maktoum's global initiatives, and it is the charitable foundation that aims to spread education and knowledge to promote the renaissance of the Arab world. The 'One Million Arab Coders' initiative aims to provide Arab youth with the basic capabilities and skills they will need in order to obtain future job opportunities, providing them with the language of the age - the programming language - through online training courses, and the training program consists of four tracks that are most in demand in the field of development Websites, namely: developing complete websites, developing website pages, analyzing data, and developing Android applications.|
+
+![OneMillionArabCoders](https://i.ibb.co/wR7DqK2/Udacity-Graduation-Certificate.png)
+
