@@ -52,7 +52,7 @@
 
 ![Data Science](https://i.ibb.co/TwPzZd9/Capture.png)
 
-Data Science             |  SQL JOINING RELATIONS           |  SQL DATA MANIPULATION  
+SQL ESSENICALS             |  SQL JOINING RELATIONS           |  SQL DATA MANIPULATION  
 :-------------------------:|:-------------------------:|:-------------------------:
 ![SQL ESSENICALS](https://i.ibb.co/j6SqtcM/Capture1.png)| ![SQL JOINING RELATIONS](https://i.ibb.co/X27Dq0d/Capture2.png)  |  ![SQL DATA MANIPULATION](https://i.ibb.co/Jdnv5Xn/Capture3.png)
 
