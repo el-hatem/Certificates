@@ -50,12 +50,10 @@
 | ----------- | ----------- |
 | [dataCamp](https://www.datacamp.com/) | Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data).[6] The field encompasses analysis, preparing data for analysis, and presenting findings to inform high-level decisions in an organization. As such, it incorporates skills from computer science, mathematics, statistics, information visualization, graphic design, complex systems, communication and business.[7][8] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human-computer interaction: users should be able to intuitively control and explore data.[9][10] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[11]|
 
- Data Science             |  SQL ESSENICALS 
-:-------------------------:|:-------------------------:
-![Data Science](https://i.ibb.co/TwPzZd9/Capture.png)  |  ![SQL ESSENICALS](https://i.ibb.co/j6SqtcM/Capture1.png)
+![Data Science](https://i.ibb.co/TwPzZd9/Capture.png)
 
-SQL JOINING RELATIONS           |  SQL DATA MANIPULATION  
-:-------------------------:|:-------------------------:
-![SQL JOINING RELATIONS](https://i.ibb.co/X27Dq0d/Capture2.png)  |  ![SQL DATA MANIPULATION](https://i.ibb.co/Jdnv5Xn/Capture3.png)
+Data Science             |  SQL JOINING RELATIONS           |  SQL DATA MANIPULATION  
+:-------------------------:|:-------------------------:|:-------------------------:
+![SQL ESSENICALS](https://i.ibb.co/j6SqtcM/Capture1.png)| ![SQL JOINING RELATIONS](https://i.ibb.co/X27Dq0d/Capture2.png)  |  ![SQL DATA MANIPULATION](https://i.ibb.co/Jdnv5Xn/Capture3.png)
 
 ![Data Visualization](https://i.ibb.co/gyH8JtR/Capture4.png)
