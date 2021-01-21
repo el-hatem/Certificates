@@ -56,4 +56,11 @@ SQL ESSENICALS             |  SQL JOINING RELATIONS           |  SQL DATA MANIPU
 :-------------------------:|:-------------------------:|:-------------------------:
 ![SQL ESSENICALS](https://i.ibb.co/j6SqtcM/Capture1.png)| ![SQL JOINING RELATIONS](https://i.ibb.co/X27Dq0d/Capture2.png)  |  ![SQL DATA MANIPULATION](https://i.ibb.co/Jdnv5Xn/Capture3.png)
 
-![Data Visualization](https://i.ibb.co/gyH8JtR/Capture4.png)
+ Data Visualization introduction |  Data Visualization Using Matlib           
+:-------------------------:|:-------------------------:
+![Data Visualization](https://i.ibb.co/gyH8JtR/Capture4.png)| ![Data Visualization with Matlib](https://i.ibb.co/MnpDTjK/2fbf49e737340e49fc6c352715f883d2b979e6ff.png)
+
+Data Manipulation: (import local Data) Using Python| Data Manipulation: (web Scrabing Data) Using Python |  Pandas Data Manipulation: (introduction) Using Pandas |  Data Manipulation: (Join Data) Using Pandas   
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![import local Data](https://i.ibb.co/RymyQJ7/8153d307-e38b-4794-8a0a-28f7c84d4721.png)| ![web Scraping](https://i.ibb.co/NNps6Rb/e3dec66c1ec0a6735c1da1917a01e78c0d47ae73.png)  |  ![introduction to pandas](https://i.ibb.co/6ZsTmf7/316d06e6-2e8d-4b69-bd04-779a3a5c810b.png) | ![join data using pandas](https://i.ibb.co/g3XpK42/9f4882d2-2e04-4450-923a-8a58ed33de06.png)
+
