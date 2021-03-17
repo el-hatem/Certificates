@@ -44,7 +44,7 @@ Python: Web Access |  Python: DataBase
 :-------------------------:|:-------------------------:
 ![python-web-access](https://i.ibb.co/f1WJyqz/Coursera-L6-LY9-B6-VF9-MF-pdf.png)| ![python-data-base](https://i.ibb.co/fXCygm5/Coursera-RZLY7-K6-XVYQH-pdf.png) 
 
-<img align="center" width="100" height="100" src="https://i.ibb.co/xJ5k1nr/Coursera-EFSGX4-WU7-AYG-pdf.png" alt="python-data-visualization">
+<img align="center" width="500" height="500" src="https://i.ibb.co/xJ5k1nr/Coursera-EFSGX4-WU7-AYG-pdf.png" alt="python-data-visualization">
 
 # OneMillionArabCoders: first step
 | Link | Description |
