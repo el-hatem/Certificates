@@ -24,7 +24,7 @@
 
 Part One |  Part Two
 :-------------------------:|:-------------------------:
-![nandOne](https://i.ibb.co/qNMnT7b/ceritfcate.png)| ![nandTwo](https://i.ibb.co/r0R3skF/ceritfcateii.png)
+![nandOne](https://i.ibb.co/qNMnT7b/ceritfcate.png)| ![nandTwo](https://i.ibb.co/vm6rZvT/Coursera-MZ9-D6-EUPQHGM-pdf.png)
 
 # Python Specialization
 | Link | Description |
