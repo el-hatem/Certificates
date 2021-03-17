@@ -31,6 +31,21 @@
 
 ![nandTwo](https://i.ibb.co/r0R3skF/ceritfcateii.png)
 
+# Python Specialization
+| Link | Description |
+| ----------- | ----------- |
+| [python](https://www.coursera.org/specializations/python) | This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.|
+
+![python-getting-start]()
+Python: getting Start |  Python: Data Structure 
+:-------------------------:|:-------------------------:
+![python-get-start](https://i.ibb.co/sg53q5Y/Coursera-9-H458-QR2-TZDR-pdf.png)| ![python-data-structure](https://i.ibb.co/Rc5kbkf/Coursera-RXQT929-ZGG5-Z-pdf.png) 
+
+Python: Web Access |  Python: DataBase
+:-------------------------:|:-------------------------:
+![python-web-access](https://i.ibb.co/f1WJyqz/Coursera-L6-LY9-B6-VF9-MF-pdf.png)| ![python-data-base](https://i.ibb.co/fXCygm5/Coursera-RZLY7-K6-XVYQH-pdf.png) 
+
+![python-data-visualization](https://i.ibb.co/xJ5k1nr/Coursera-EFSGX4-WU7-AYG-pdf.png) 
 # OneMillionArabCoders: first step
 | Link | Description |
 | ----------- | ----------- |
