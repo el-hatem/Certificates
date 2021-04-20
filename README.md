@@ -42,36 +42,9 @@ Python: Web Access |  Python: DataBase
 ![python-data-visualization](https://i.ibb.co/xJ5k1nr/Coursera-EFSGX4-WU7-AYG-pdf.png)
 
 
-# OneMillionArabCoders: first step
-| Link | Description |
-| ----------- | ----------- |
-| [one-million-arab-coders](https://www.udacity.com/mena/one-million-arab-coders/) | The 'One Million Arab Coders' initiative is one of Mohammed bin Rashid Al Maktoum's global initiatives, and it is the charitable foundation that aims to spread education and knowledge to promote the renaissance of the Arab world. The 'One Million Arab Coders' initiative aims to provide Arab youth with the basic capabilities and skills they will need in order to obtain future job opportunities, providing them with the language of the age - the programming language - through online training courses, and the training program consists of four tracks that are most in demand in the field of development Websites, namely: developing complete websites, developing website pages, analyzing data, and developing Android applications.|
-
-![OneMillionArabCoders](https://i.ibb.co/s3YXVQc/014c33cb-b32b-4d24-880a-920a3e4317a0.png)
-
-# OneMillionArabCoders: Graduation step
+# OneMillionArabCoders: DataAnalysis Graduation step
 | Link | Description |
 | ----------- | ----------- |
 | [one-million-arab-coders](https://www.udacity.com/mena/one-million-arab-coders/) | The 'One Million Arab Coders' initiative is one of Mohammed bin Rashid Al Maktoum's global initiatives, and it is the charitable foundation that aims to spread education and knowledge to promote the renaissance of the Arab world. The 'One Million Arab Coders' initiative aims to provide Arab youth with the basic capabilities and skills they will need in order to obtain future job opportunities, providing them with the language of the age - the programming language - through online training courses, and the training program consists of four tracks that are most in demand in the field of development Websites, namely: developing complete websites, developing website pages, analyzing data, and developing Android applications.|
 
 ![OneMillionArabCoders](https://i.ibb.co/wR7DqK2/Udacity-Graduation-Certificate.png)
-
-# Data Science: Skills
-| Link | Description |
-| ----------- | ----------- |
-| [dataCamp](https://www.datacamp.com/) | Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data).[6] The field encompasses analysis, preparing data for analysis, and presenting findings to inform high-level decisions in an organization. As such, it incorporates skills from computer science, mathematics, statistics, information visualization, graphic design, complex systems, communication and business.[7][8] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human-computer interaction: users should be able to intuitively control and explore data.[9][10] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[11]|
-
-![Data Science](https://i.ibb.co/TwPzZd9/Capture.png)
-
-SQL ESSENICALS             |  SQL JOINING RELATIONS           |  SQL DATA MANIPULATION  
-:-------------------------:|:-------------------------:|:-------------------------:
-![SQL ESSENICALS](https://i.ibb.co/j6SqtcM/Capture1.png)| ![SQL JOINING RELATIONS](https://i.ibb.co/X27Dq0d/Capture2.png)  |  ![SQL DATA MANIPULATION](https://i.ibb.co/Jdnv5Xn/Capture3.png)
-
- Data Visualization introduction |  Data Visualization Using Matlib           
-:-------------------------:|:-------------------------:
-![Data Visualization](https://i.ibb.co/gyH8JtR/Capture4.png)| ![Data Visualization with Matlib](https://i.ibb.co/MnpDTjK/2fbf49e737340e49fc6c352715f883d2b979e6ff.png)
-
-Data Manipulation: (import local Data) Using Python| Data Manipulation: (web Scrabing Data) Using Python |  Pandas Data Manipulation: (introduction) Using Pandas |  Data Manipulation: (Join Data) Using Pandas   
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![import local Data](https://i.ibb.co/RymyQJ7/8153d307-e38b-4794-8a0a-28f7c84d4721.png)| ![web Scraping](https://i.ibb.co/NNps6Rb/e3dec66c1ec0a6735c1da1917a01e78c0d47ae73.png)  |  ![introduction to pandas](https://i.ibb.co/6ZsTmf7/316d06e6-2e8d-4b69-bd04-779a3a5c810b.png) | ![join data using pandas](https://i.ibb.co/g3XpK42/9f4882d2-2e04-4450-923a-8a58ed33de06.png)
-
